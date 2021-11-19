@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.lists-results {
+  list-style: none;
+  padding-left: 0px;
+  display: flex;
+  justify-content: space-between;
+}
+.arrow {
+  width: 50%;
+}
+.button {
+  background-color: transparent;
+  border: none;
+}
